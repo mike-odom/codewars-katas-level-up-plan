@@ -2,35 +2,26 @@
 
 ## Level 0:
 
-- Hello World
-https://www.codewars.com/kata/523b4ff7adca849afe000035
+- [Hello World](https://www.codewars.com/kata/523b4ff7adca849afe000035)
 
-- Jenny's Secret Message (Bug fix)
-https://www.codewars.com/kata/55225023e1be1ec8bc000390
+- [Jenny's Secret Message](https://www.codewars.com/kata/55225023e1be1ec8bc000390) (Bug fix)
 
-- Return the day (Comparison)
-https://www.codewars.com/kata/59dd3ccdded72fc78b000b25
+- [Return the day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25) (Comparison)
 
-- Grasshopper - Summation (Loops)
-https://www.codewars.com/kata/55d24f55d7dd296eb9000030
 
-- If you can't sleep, just count sheep!! (String concatenation)
-https://www.codewars.com/kata/5b077ebdaf15be5c7f000077
+- [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) (Loops)
 
-- Are you Playing Banjo? (Strings)
-https://www.codewars.com/kata/53af2b8861023f1d88000832
+- [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) (String concatenation)
 
-- Multiply (function / bug fix)
-https://www.codewars.com/kata/50654ddff44f800200000004
+- [Are you Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832) (Strings)
 
-- Opposite number (Math)
-https://www.codewars.com/kata/56dec885c54a926dcd001095
+- [Multiply (function / bug fix)](https://www.codewars.com/kata/50654ddff44f800200000004)
 
-- Basic variable assignment (Bug fix)
-https://www.codewars.com/kata/50ee6b0bdeab583673000025
+- [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095) (Math)
 
-- Unfinished Loop (Bug fix)
-https://www.codewars.com/kata/55c28f7304e3eaebef0000da
+- [Basic variable assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025) (Bug fix)
+
+- [Unfinished Loop](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) (Bug fix)
 
 ## Level 1:
 
