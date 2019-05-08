@@ -82,7 +82,7 @@ https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0
 - Abbreviate a Two Word Name (String manipulation)
 https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
 
-Level 3:
+## Level 3:
 
 - Multiply the number (Math)
 https://www.codewars.com/kata/5708f682c69b48047b000e07
@@ -92,6 +92,23 @@ https://www.codewars.com/kata/56f173a35b91399a05000cb7
 
 - Swap Values (Bug fix) (Hint: How would you write this from scratch?)
 https://www.codewars.com/kata/5388f0e00b24c5635e000fc6/solutions/solutions
+
+- Sum Arrays
+https://www.codewars.com/kata/sum-arrays/javascript
+
+- Get character from ASCII Value
+https://www.codewars.com/kata/get-character-from-ascii-value/javascript
+
+## Level 4:
+
+- DNA to RNA Conversion (String maniuplation)
+https://www.codewars.com/kata/dna-to-rna-conversion/javascript
+
+- Keep Hydrated! (Math)
+https://www.codewars.com/kata/keep-hydrated-1/javascript
+
+- Correct the mistakes of the character recognition software (String manipulation)
+https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/javascript
 
 ## To continue, here's some lists:
 
