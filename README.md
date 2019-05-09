@@ -1,4 +1,5 @@
-# codewars-katas-level-up-plan
+# Codewars Katas - Level Up Plan
+To level up your skills, do these in order.
 
 ## Level 0:
 
