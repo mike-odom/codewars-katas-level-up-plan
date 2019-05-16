@@ -23,10 +23,12 @@ To level up your skills, do these in order.
 
 - [Unfinished Loop](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) (Bug fix)
 
+#### Need help? 
+- [JavaScript Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+- [JavaScript Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+- [JavsScript Strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
+
 ## Level 1:
-
-- [Mulitiplication Table](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) (Loops)
-
 
 - [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) (Math)
 
@@ -48,7 +50,12 @@ To level up your skills, do these in order.
 
 - [Ghost code?!](https://www.codewars.com/kata/570184a95594a091150000a0) (Bug fix)
 
+#### Need help?
+- [JavaScript Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+- [JavaScript Math](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
+
 ## Level 2:
+- [Mulitiplication Table](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) (Loops)
 
 - [Is this my tail?](https://www.codewars.com/kata/56f695399400f5d9ef000af5) (Bug fix)
 
@@ -57,6 +64,9 @@ To level up your skills, do these in order.
 - [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) (Sub-string)
 
 - [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) (String manipulation)
+
+#### Need help?
+- [JavaScript Useful String Methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
 
 ## Level 3:
 
