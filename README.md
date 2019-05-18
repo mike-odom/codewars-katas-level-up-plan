@@ -74,7 +74,7 @@ To level up your skills, do these in order.
 
 - [Squash the bugs](https://www.codewars.com/kata/56f173a35b91399a05000cb7) (Bug fix)
 
-- [Swap Values](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6/solutions/solutions) (Bug fix) (Hint: How would you write this from scratch?)
+- [Swap Values](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6) (Bug fix) (Hint: How would you write this from scratch?)
 
 - [Sum Arrays](https://www.codewars.com/kata/sum-arrays/javascript)
 
