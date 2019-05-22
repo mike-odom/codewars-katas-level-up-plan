@@ -80,13 +80,24 @@ To level up your skills, do these in order.
 
 - [Get character from ASCII Value](https://www.codewars.com/kata/get-character-from-ascii-value/javascript)
 
+- [Playing with Cubes II](https://www.codewars.com/kata/playing-with-cubes-ii/train/javascript)
+
+- [JavaScript class-like objects](https://www.codewars.com/kata/javascript-class-like-objects) (Classes)
+
+- [Finish the Number Game](https://www.codewars.com/kata/568018a64f35f0c613000054) (Classes, throw error)
+
+
 ## Level 4:
 
-- [DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion/javascript) (String maniuplation)
+- [Two fighters, one winner.](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b) (Classes, loops)
+
+- [DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion/javascript) (String manipulation)
 
 - [Keep Hydrated!](https://www.codewars.com/kata/keep-hydrated-1/javascript) (Math)
 
 - [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/javascript) (String manipulation)
+
+- [Adam & Eve](https://www.codewars.com/kata/547274e24481cfc469000416) (Classes, subclasses)
 
 ## To continue, here's some lists:
 
