@@ -23,10 +23,11 @@ To level up your skills, do these in order.
 
 - [Unfinished Loop](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) (Bug fix)
 
-#### Need help? 
+#### Suggested Reading / Reference:
 - [JavaScript Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
 - [JavaScript Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 - [JavsScript Strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
+- [JavaScript If Statements](https://www.w3schools.com/js/js_if_else.asp)
 
 ## Level 1:
 
@@ -50,7 +51,7 @@ To level up your skills, do these in order.
 
 - [Ghost code?!](https://www.codewars.com/kata/570184a95594a091150000a0) (Bug fix)
 
-#### Need help?
+#### Suggested Reading / Reference:
 - [JavaScript Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 - [JavaScript Math](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
 
@@ -65,7 +66,7 @@ To level up your skills, do these in order.
 
 - [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) (String manipulation)
 
-#### Need help?
+#### Suggested Reading / Reference:
 - [JavaScript Useful String Methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
 
 ## Level 3:
