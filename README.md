@@ -1,5 +1,18 @@
 # Codewars Katas - Level Up Plan
-To level up your skills, do these in order.
+
+
+## Why this?
+I wanted to sort Codewars katas (code problems) for people learning JavaScript so they can work their way up through a list sorted by my perceived difficulty level. The difficulty level of Codewars katas can vary too much for students. Especially since new students will have a hard time knowing if a problem is difficult or easy.
+(This list might work partially for other languages like C++/Ruby/Python/etc.)
+
+# Let's do this
+To level up your skills, do these in order. There's references in each section for you to view. If that's not enough, please Google concepts. And avoid Googling the specific problem/solution.
+
+Important! When you're done with a kata, try to explain your answer out-loud. Explain each line one-by-one.
+
+# Rinse and repeat
+When you're done with the list, or feel like you have hit a wall, go back. Go to the beginning and re-do all the problems. Your goal will be to work on understanding the problems without having to use your references.
+
 
 ## Level 0:
 
@@ -12,6 +25,8 @@ To level up your skills, do these in order.
 - [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) (Loops)
 
 - [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) (String concatenation)
+
+- Friendly reminder to read the solution out-loud
 
 - [Are you Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832) (Strings)
 
@@ -38,6 +53,8 @@ To level up your skills, do these in order.
 
 - [Closest Elevator](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a) (Math)
 
+- Friendly reminder to try be able to explain each line of your code
+
 - [Sum of Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) (Arrays, Loops)
 
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) (Arrays, loops)
@@ -63,6 +80,8 @@ To level up your skills, do these in order.
 
 - [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) (Comparison)
 
+- Can you explain the answer to that last problem?
+
 - [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) (Sub-string)
 
 - [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) (String manipulation)
@@ -79,6 +98,8 @@ To level up your skills, do these in order.
 - [Swap Values](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6) (Bug fix) (Hint: How would you write this from scratch?)
 
 - [Sum Arrays](https://www.codewars.com/kata/sum-arrays/javascript)
+
+- What is an array?
 
 - [Get character from ASCII Value](https://www.codewars.com/kata/get-character-from-ascii-value/javascript)
 
@@ -98,6 +119,7 @@ To level up your skills, do these in order.
 - [Keep Hydrated!](https://www.codewars.com/kata/keep-hydrated-1/javascript) (Math)
 
 - [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/javascript) (String manipulation)
+
 
 - [Adam & Eve](https://www.codewars.com/kata/547274e24481cfc469000416) (Classes, subclasses)
 
