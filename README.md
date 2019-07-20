@@ -27,6 +27,7 @@ To level up your skills, do these in order.
 - [JavaScript Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
 - [JavaScript Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 - [JavsScript Strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
+- [JavaScript Booleans](https://www.w3schools.com/js/js_booleans.asp)
 - [JavaScript If Statements](https://www.w3schools.com/js/js_if_else.asp)
 
 ## Level 1:
