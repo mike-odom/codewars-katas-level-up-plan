@@ -67,8 +67,6 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Get Planet Name by id](https://www.codewars.com/kata/515e188a311df01cba000003) (Bug fix)
 
-- [Ghost code?!](https://www.codewars.com/kata/570184a95594a091150000a0) (Bug fix)
-
 #### Suggested Reading / Reference:
 - [JavaScript Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 - [JavaScript Math](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
