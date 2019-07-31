@@ -99,6 +99,8 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - What is an array?
 
+- [Regular Ball Super Ball](https://www.codewars.com/kata/53f0f358b9cb376eca001079) (Classes)
+
 - [Get character from ASCII Value](https://www.codewars.com/kata/get-character-from-ascii-value/javascript)
 
 - [Playing with Cubes II](https://www.codewars.com/kata/playing-with-cubes-ii/train/javascript)
@@ -107,8 +109,12 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Finish the Number Game](https://www.codewars.com/kata/568018a64f35f0c613000054) (Classes, throw error)
 
+#### Suggested Reading / Reference:
+- [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
 ## Level 4:
+
+- [Comma, comma and and](https://www.codewars.com/kata/565c88c862901d1ad9000074) (String concatenation)
 
 - [Two fighters, one winner.](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b) (Classes, loops)
 
@@ -117,7 +123,6 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [Keep Hydrated!](https://www.codewars.com/kata/keep-hydrated-1/javascript) (Math)
 
 - [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/javascript) (String manipulation)
-
 
 - [Adam & Eve](https://www.codewars.com/kata/547274e24481cfc469000416) (Classes, subclasses)
 
