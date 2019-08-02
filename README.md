@@ -114,8 +114,6 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 ## Level 4:
 
-- [Comma, comma and and](https://www.codewars.com/kata/565c88c862901d1ad9000074) (String concatenation)
-
 - [Two fighters, one winner.](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b) (Classes, loops)
 
 - [DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion/javascript) (String manipulation)
@@ -125,6 +123,10 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/javascript) (String manipulation)
 
 - [Adam & Eve](https://www.codewars.com/kata/547274e24481cfc469000416) (Classes, subclasses)
+
+## Level 5:
+- [Grouped by Commas](https://www.codewars.com/kata/5274e122fc75c0943d000148) (Math, String concatenation)
+
 
 ## To continue, here's some lists:
 
