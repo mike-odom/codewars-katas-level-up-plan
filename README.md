@@ -41,6 +41,7 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [JavsScript Strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
 - [JavaScript Booleans](https://www.w3schools.com/js/js_booleans.asp)
 - [JavaScript If Statements](https://www.w3schools.com/js/js_if_else.asp)
+- [JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)
 
 ## Level 1:
 
@@ -114,6 +115,8 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Playing with Cubes II](https://www.codewars.com/kata/playing-with-cubes-ii/train/javascript)
 
+#### Suggested Reading / Reference:
+- [JavaScript Functions (More in-depth than previous link)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 
 ## Level 4:
 
