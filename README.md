@@ -22,8 +22,6 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Return the day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25) (Comparison)
 
-- [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) (Loops)
-
 - [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) (String concatenation)
 
 - Friendly reminder to read the solution out-loud
@@ -36,18 +34,21 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Basic variable assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025) (Bug fix)
 
-- [Unfinished Loop](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) (Bug fix)
+- [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) (Math)
 
 #### Suggested Reading / Reference:
 - [JavaScript Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
-- [JavaScript Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 - [JavsScript Strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
 - [JavaScript Booleans](https://www.w3schools.com/js/js_booleans.asp)
 - [JavaScript If Statements](https://www.w3schools.com/js/js_if_else.asp)
 
 ## Level 1:
 
-- [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) (Math)
+- [Unfinished Loop](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) (Bug fix, loops, arrays)
+
+- [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/) (Strings, loops)
+
+- [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) (Loops)
 
 - [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003) (Math)
 
@@ -62,6 +63,8 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [Reversed String](https://www.codewars.com/kata/reversed-strings) (String manipulation) (Try this with a loop instead of any methods)
 
 #### Suggested Reading / Reference:
+
+- [JavaScript Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 - [JavaScript Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 - [JavaScript Math](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
 
