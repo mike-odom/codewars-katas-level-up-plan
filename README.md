@@ -49,23 +49,17 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) (Math)
 
-- [Find the numbers which are divisible by given number](https://www.codewars.com/kata/55edaba99da3a9c84000003b) (arrays, math)
-
-- [Closest Elevator](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a) (Math)
+- [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003) (Math)
 
 - Friendly reminder to try be able to explain each line of your code
-
-- [Sum of Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) (Arrays, Loops)
-
-- [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) (Arrays, loops)
-
-- [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003) (Math)
 
 - [Grasshopper - Debug celsius converter](https://www.codewars.com/kata/55cb854deb36f11f130000e1) (Bug fix / math)
 
 - [Number toString](https://www.codewars.com/kata/53934feec44762736c00044b) (Bug fix)
 
 - [Get Planet Name by id](https://www.codewars.com/kata/515e188a311df01cba000003) (Bug fix)
+
+- [Reversed String](https://www.codewars.com/kata/reversed-strings) (String manipulation) (Try this with a loop instead of any methods)
 
 #### Suggested Reading / Reference:
 - [JavaScript Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
@@ -76,9 +70,13 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Is this my tail?](https://www.codewars.com/kata/56f695399400f5d9ef000af5) (Bug fix)
 
+- [Sum of Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) (Arrays, Loops)
+
 - [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) (Comparison)
 
 - Can you explain the answer to that last problem?
+
+- [Find the numbers which are divisible by given number](https://www.codewars.com/kata/55edaba99da3a9c84000003b) (arrays, math)
 
 - [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) (Sub-string)
 
@@ -91,6 +89,10 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Multiply the number](https://www.codewars.com/kata/5708f682c69b48047b000e07) (Math)
 
+- [Closest Elevator](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a) (Math)
+
+- [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) (Arrays, loops)
+
 - [Squash the bugs](https://www.codewars.com/kata/56f173a35b91399a05000cb7) (Bug fix)
 
 - [Swap Values](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6) (Bug fix) (Hint: How would you write this from scratch?)
@@ -99,33 +101,35 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - What is an array?
 
-- [Regular Ball Super Ball](https://www.codewars.com/kata/53f0f358b9cb376eca001079) (Classes)
-
-- [Get character from ASCII Value](https://www.codewars.com/kata/get-character-from-ascii-value/javascript)
-
-- [Playing with Cubes II](https://www.codewars.com/kata/playing-with-cubes-ii/train/javascript)
-
-- [JavaScript class-like objects](https://www.codewars.com/kata/javascript-class-like-objects) (Classes)
-
-- [Finish the Number Game](https://www.codewars.com/kata/568018a64f35f0c613000054) (Classes, throw error)
-
-#### Suggested Reading / Reference:
-- [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
-
-## Level 4:
-
-- [Two fighters, one winner.](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b) (Classes, loops)
-
 - [DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion/javascript) (String manipulation)
 
 - [Keep Hydrated!](https://www.codewars.com/kata/keep-hydrated-1/javascript) (Math)
 
 - [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/javascript) (String manipulation)
 
-- [Adam & Eve](https://www.codewars.com/kata/547274e24481cfc469000416) (Classes, subclasses)
+- [Get character from ASCII Value](https://www.codewars.com/kata/get-character-from-ascii-value/javascript)
+
+- [Playing with Cubes II](https://www.codewars.com/kata/playing-with-cubes-ii/train/javascript)
+
+
+## Level 4:
+
+- [JavaScript class-like objects](https://www.codewars.com/kata/javascript-class-like-objects) (Classes)
+
+- [Regular Ball Super Ball](https://www.codewars.com/kata/53f0f358b9cb376eca001079) (Classes)
+
+- [Finish the Number Game](https://www.codewars.com/kata/568018a64f35f0c613000054) (Classes, throw error)
+
+- [Two fighters, one winner.](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b) (Classes, loops)
+
+#### Suggested Reading / Reference:
+- [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
 ## Level 5:
+
 - [Grouped by Commas](https://www.codewars.com/kata/5274e122fc75c0943d000148) (Math, String concatenation)
+
+- [Adam & Eve](https://www.codewars.com/kata/547274e24481cfc469000416) (Classes, subclasses)
 
 
 ## To continue, here's some lists:
