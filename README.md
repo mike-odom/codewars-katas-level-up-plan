@@ -128,13 +128,17 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Two fighters, one winner.](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b) (Classes, loops)
 
+- [A Function Within a Function](https://www.codewars.com/kata/53844152aa6fc137d8000589) (Advanced functions)
+
+- [Chain me](https://www.codewars.com/kata/54fb853b2c8785dd5e000957) (Callbacks)
+
 #### Suggested Reading / Reference:
 - [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- [Callback Function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
 
 ## Level 5:
 
 - [Grouped by Commas](https://www.codewars.com/kata/5274e122fc75c0943d000148) (Math, String concatenation)
-
 - [Adam & Eve](https://www.codewars.com/kata/547274e24481cfc469000416) (Classes, subclasses)
 
 
