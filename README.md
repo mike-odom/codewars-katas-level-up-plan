@@ -74,6 +74,8 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [JavaScript Math](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
 
 ## Level 2:
+- [Is it a Palindrome?](https://www.codewars.com/kata/palindrome-strings/) (Strings, loops?)
+
 - [Mulitiplication Table](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) (Loops)
 
 - [Is this my tail?](https://www.codewars.com/kata/56f695399400f5d9ef000af5) (Bug fix)
