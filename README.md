@@ -47,6 +47,8 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Unfinished Loop](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) (Bug fix, loops, arrays)
 
+- [You Only Need One](https://www.codewars.com/kata/you-only-need-one-beginner) (Loops)
+
 - [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/) (Strings, loops)
 
 - [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) (Loops)
@@ -55,7 +57,9 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - Friendly reminder to try be able to explain each line of your code
 
-- [Grasshopper - Debug celsius converter](https://www.codewars.com/kata/55cb854deb36f11f130000e1) (Bug fix / math)
+- [Grasshopper - Debug celsius converter](https://www.codewars.com/kata/55cb854deb36f11f130000e1) (Bug fix, math)
+
+- [Difference of Volumes of Cuboids](https://www.codewars.com/kata/difference-of-volumes-of-cuboids) (Arrays, math)
 
 - [Number toString](https://www.codewars.com/kata/53934feec44762736c00044b) (Bug fix)
 
