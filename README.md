@@ -92,6 +92,8 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) (String manipulation)
 
+- [Remove Duplicate Words](https://www.codewars.com/kata/remove-duplicate-words/train/javascript)
+
 #### Suggested Reading / Reference:
 - [JavaScript Useful String Methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
 
@@ -120,6 +122,8 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [Get character from ASCII Value](https://www.codewars.com/kata/get-character-from-ascii-value/javascript)
 
 - [Playing with Cubes II](https://www.codewars.com/kata/playing-with-cubes-ii/train/javascript)
+
+- [Nice Array](https://www.codewars.com/kata/59b844528bcb7735560000a0/) (Arrays, nested loops)
 
 #### Suggested Reading / Reference:
 - [JavaScript Functions (More in-depth than previous link)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
