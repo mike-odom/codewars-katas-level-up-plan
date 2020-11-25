@@ -129,6 +129,12 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [JavaScript Functions (More in-depth than previous link)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 
 ## Level 4:
+- [Let's Recycle!] https://www.codewars.com/kata/5b6db1acb118141f6b000060 (Objects, Arrays, Loops)
+
+#### Suggested Reading / Reference:
+- [JavaScript Objects] https://www.w3schools.com/js/js_objects.asp
+
+## Level 5:
 
 - [JavaScript class-like objects](https://www.codewars.com/kata/javascript-class-like-objects) (Classes)
 
@@ -146,7 +152,7 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 - [Callback Function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
 
-## Level 5:
+## Level 6:
 
 - [Grouped by Commas](https://www.codewars.com/kata/5274e122fc75c0943d000148) (Math, String concatenation)
 - [Adam & Eve](https://www.codewars.com/kata/547274e24481cfc469000416) (Classes, subclasses)
@@ -159,3 +165,5 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [List: Basic Language Features](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Basic%20Language%20Features)
 
 - [List: Bug Fix](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Bugs)
+
+## TODO: More callbacks and objects
