@@ -129,10 +129,11 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [JavaScript Functions (More in-depth than previous link)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 
 ## Level 4:
-- [Let's Recycle!] https://www.codewars.com/kata/5b6db1acb118141f6b000060 (Objects, Arrays, Loops)
+- [Let's Recycle!](https://www.codewars.com/kata/5b6db1acb118141f6b000060) (Objects, Arrays, Loops)
+- [Ironman Triathlon](https://www.codewars.com/kata/57d001b405c186ccb6000304/train/javascript) (Objects, Math, Logic)
 
 #### Suggested Reading / Reference:
-- [JavaScript Objects] https://www.w3schools.com/js/js_objects.asp
+- [JavaScript Objects](https://www.w3schools.com/js/js_objects.asp)
 
 ## Level 5:
 
