@@ -6,9 +6,10 @@ I wanted to sort Codewars katas (code problems) for people learning JavaScript s
 (This list might work partially for other languages like C++/Ruby/Python/etc.)
 
 # Let's do this
-To level up your skills, do these in order. There's references in each section for you to view. If that's not enough, please Google concepts. And avoid Googling the specific problem/solution.
+To level up your skills, do these in order. There's references in each section for you to view. Or train up your Google skills! Avoid searching for the specific problem/solution. Because, more importantly than completing these, your goal is to understand them.
 
-Important! When you're done with a kata, try to explain your answer out-loud. Explain each line one-by-one.
+# Talk out loud
+When you're done with a kata, try to explain your answer out-loud. Explain each line one-by-one. If you struggle to explain a line, that's a hint to keep training on that topic.
 
 # Rinse and repeat
 When you're done with the list, or feel like you have hit a wall, go back. Go to the beginning and re-do all the problems. Your goal will be to work on understanding the problems without having to use your references.
@@ -20,9 +21,15 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Jenny's Secret Message](https://www.codewars.com/kata/55225023e1be1ec8bc000390) (Bug fix)
 
-- [Return the day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25) (Comparison)
+- [Messi Goals](https://www.codewars.com/kata/55ca77fa094a2af31f00002a) (Variables)
 
-- [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) (String concatenation)
+- [Messi Goals Function](https://www.codewars.com/kata/55f73be6e12baaa5900000d4) (Functions)
+
+- [Combine Strings](https://www.codewars.com/kata/55f73f66d160f1f1db000059) (Strings)
+
+- [Debugging sayHello function](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) (Strings)
+
+- [If/else syntax debug](https://www.codewars.com/kata/57089707fe2d01529f00024a)
 
 - Friendly reminder to read the solution out-loud
 
@@ -34,7 +41,9 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Basic variable assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025) (Bug fix)
 
-- [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) (Math)
+- [Check for Factor](https://www.codewars.com/kata/55cbc3586671f6aa070000fb) (Math)
+
+- [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) (Math, Conditionals)
 
 #### Suggested Reading / Reference:
 - [JavaScript Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
@@ -45,6 +54,8 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 ## Level 1:
 
+- [Return the day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25) (Conditionals)
+
 - [Unfinished Loop](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) (Bug fix, loops, arrays)
 
 - [You Only Need One](https://www.codewars.com/kata/you-only-need-one-beginner) (Loops)
@@ -53,9 +64,13 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) (Loops)
 
+- [Function syntax debugging](https://www.codewars.com/kata/56dae9dc54c0acd29d00109a) (Functions, synax)
+
 - [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003) (Math)
 
 - Friendly reminder to try be able to explain each line of your code
+
+- [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) (Loops, string concatenation)
 
 - [Grasshopper - Debug celsius converter](https://www.codewars.com/kata/55cb854deb36f11f130000e1) (Bug fix, math)
 
@@ -66,6 +81,8 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [Get Planet Name by id](https://www.codewars.com/kata/515e188a311df01cba000003) (Bug fix)
 
 - [Reversed String](https://www.codewars.com/kata/reversed-strings) (String manipulation) (Try this with a loop instead of any methods)
+
+- [Grade Book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) (Functions, conditionals)
 
 #### Suggested Reading / Reference:
 
@@ -129,7 +146,11 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [JavaScript Functions (More in-depth than previous link)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 
 ## Level 4:
+
+- [Object syntax debug](https://www.codewars.com/kata/56d8ae9237123036d3001b54) (Objects, Syntax)
+
 - [Let's Recycle!](https://www.codewars.com/kata/5b6db1acb118141f6b000060) (Objects, Arrays, Loops)
+
 - [Ironman Triathlon](https://www.codewars.com/kata/57d001b405c186ccb6000304/train/javascript) (Objects, Math, Logic)
 
 #### Suggested Reading / Reference:
@@ -147,6 +168,8 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 
 - [A Function Within a Function](https://www.codewars.com/kata/53844152aa6fc137d8000589) (Advanced functions)
 
+- [Easy mathematical callback](https://www.codewars.com/kata/54b7c8d2cd7f51a839000ebf) (Callbacks)
+
 - [Chain me](https://www.codewars.com/kata/54fb853b2c8785dd5e000957) (Callbacks)
 
 #### Suggested Reading / Reference:
@@ -156,6 +179,7 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 ## Level 6:
 
 - [Grouped by Commas](https://www.codewars.com/kata/5274e122fc75c0943d000148) (Math, String concatenation)
+
 - [Adam & Eve](https://www.codewars.com/kata/547274e24481cfc469000416) (Classes, subclasses)
 
 
