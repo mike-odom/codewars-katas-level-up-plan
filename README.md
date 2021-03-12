@@ -91,12 +91,10 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [JavaScript Math](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
 
 ## Level 2:
-- [Is it a Palindrome?](https://www.codewars.com/kata/palindrome-strings/) (Strings, loops?)
-
-- [Mulitiplication Table](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) (Loops)
-
 - [Is this my tail?](https://www.codewars.com/kata/56f695399400f5d9ef000af5) (Bug fix)
 
+- [Mulitiplication Table](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) (Loops)
+- 
 - [Sum of Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) (Arrays, Loops)
 
 - [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) (Comparison)
@@ -123,6 +121,8 @@ When you're done with the list, or feel like you have hit a wall, go back. Go to
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) (Arrays, loops)
 
 - [Squash the bugs](https://www.codewars.com/kata/56f173a35b91399a05000cb7) (Bug fix)
+
+- [Is it a Palindrome?](https://www.codewars.com/kata/palindrome-strings/) (Strings, loops?)
 
 - [Swap Values](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6) (Bug fix) (Hint: How would you write this from scratch?)
 
